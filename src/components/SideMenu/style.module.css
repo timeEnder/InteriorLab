@@ -1,0 +1,11 @@
+.container{
+    @apply flex flex-col w-[40%] h-full bg-black
+}
+
+.box{
+    @apply w-[50%] h-full flex flex-col items-start bg-white p-4
+}
+
+.box:last-child{
+    @apply bg-[#ffd400]
+}

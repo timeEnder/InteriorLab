@@ -1,0 +1,10 @@
+.container{
+    @apply flex flex-row w-full h-[75%] overflow-hidden object-cover
+}
+
+
+.box{
+
+    @apply flex w-[768px] h-[106%] object-cover
+
+}

@@ -1,0 +1,15 @@
+.container{
+    @apply flex flex-row items-center h-[3vw] w-full
+}
+
+.logo{
+    @apply ml-[2vw] font-bold uppercase cursor-pointer
+}
+
+.menu{
+    @apply flex flex-row justify-around items-center ml-12 w-[38rem] cursor-pointer
+}
+
+.but{
+    @apply flex flex-row justify-between w-28 ml-[12rem] cursor-pointer
+}

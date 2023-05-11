@@ -1,0 +1,3 @@
+.container{
+    @apply flex flex-row justify-start  bg-green-800 w-[100%] h-[100vh] text-white
+}
