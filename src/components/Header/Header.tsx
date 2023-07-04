@@ -15,7 +15,7 @@ export default function Header(){
                         <Button/>
                     </div>
                 </div>
-                <div className={'flex flex-row  h-[128px] text-9xl ml-[15rem] whitespace-nowrap'}>just interior</div>
+                <div className={'flex flex-row  h-[128px] text-9xl ml-[15rem] whitespace-nowrap z-10'}>just interior</div>
             </div>
         </div>
     )
